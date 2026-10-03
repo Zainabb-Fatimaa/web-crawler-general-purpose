@@ -1,0 +1,85 @@
+{
+  "title_selector": "h1",
+  "sections": {
+    "summary": [
+      "summary",
+      "overview",
+      "about"
+    ],
+    "requirements": [
+      "requirement",
+      "prerequisite"
+    ],
+    "resources": [
+      "resource",
+      "download",
+      "document"
+    ],
+    "steps": [
+      "getting started",
+      "how to",
+      "instructions",
+      "steps"
+    ],
+    "dates": [
+      "date",
+      "schedule",
+      "timeline",
+      "deadline"
+    ],
+    "pricing": [
+      "pricing",
+      "price",
+      "cost",
+      "fees"
+    ]
+  },
+  "layouts": {
+    "resources": "table",
+    "dates": "text"
+  },
+  "section_titles": {
+    "summary": "Summary",
+    "requirements": "Requirements",
+    "resources": "Resources",
+    "steps": "Steps",
+    "dates": "Key dates",
+    "pricing": "Pricing"
+  },
+  "display_order": [
+    "summary",
+    "requirements",
+    "resources",
+    "steps",
+    "dates",
+    "pricing"
+  ],
+  "line_fallback": {
+    "dates": [
+      "deadline",
+      "due date"
+    ]
+  },
+  "link_keywords": [
+    "official",
+    "website",
+    "sign up",
+    "register",
+    "get started"
+  ],
+  "ignore_link_domains": [
+    "facebook.com",
+    "twitter.com",
+    "x.com",
+    "linkedin.com",
+    "instagram.com",
+    "youtube.com",
+    "wa.me",
+    "t.me"
+  ],
+  "notes_title": "Notes",
+  "notes": [
+    "Verify dates and prices at the original source",
+    "Keep a copy of anything you rely on"
+  ]
+}

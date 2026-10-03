@@ -1,0 +1,15 @@
+{
+  "source_url": "https://example.com/items/sample-1/",
+  "name": "Sample Item A",
+  "sections": {
+    "summary": ["A short description of the item."],
+    "requirements": ["Python 3.10 or newer", "Internet access"],
+    "resources": ["User guide", "Changelog"],
+    "steps": ["Install the package.", "Run the example script."],
+    "dates": ["15 January 2027"]
+  },
+  "section_headings": {},
+  "links": [{"text": "Official website", "href": "https://docs.example.org/start"}],
+  "screenshots": [],
+  "section_shots": {}
+}

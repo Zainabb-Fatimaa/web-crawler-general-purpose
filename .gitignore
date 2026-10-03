@@ -1,0 +1,12 @@
+credentials.json
+token.json
+.env
+.env.*
+!.env.example
+out/
+__pycache__/
+.venv/
+rules.json
+urls.txt
+*.png
+*.log
